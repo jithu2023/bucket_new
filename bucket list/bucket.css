@@ -1,0 +1,67 @@
+body{
+    background-image: url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/bucketlist/bucket-list-bg%5B1%5D.png");
+    background-size: 100%  15vw;
+    
+    background-repeat: no-repeat;
+    
+    text-align:center;
+    
+    font-family: 'Poppins', sans-serif;
+}
+    
+
+.listbox{
+    text-align: center;
+    margin-left: 575px;}
+    
+
+
+
+    
+    .item{
+        width:20%;
+        border:1px solid black;
+        border-radius:20px;
+        text-align:left;
+        padding:10px  5px 10px 2px;
+        height:25px;
+        margin-top: 10px;
+
+}
+button{
+    background-color:#F7BE3B;
+    font-weight: bold;
+    border-radius:20px;
+    text-align:center;
+    padding:2px;
+    height:45px;
+    width: 80px;
+    margin-left:-30px;
+}
+.text{
+    
+    border:1px solid black;
+    border-radius:20px;
+    text-align:left;
+    padding:2px;
+    height:40px;
+    width:250px;
+}
+.tick{
+    float:right;
+}
+.container{
+    color: aliceblue;
+    font-size: 25px;
+}
+.res{background-color:#F7BE3B;
+    font-size: 15px;
+    border-radius:20px;
+    text-align: center;
+    padding:25px;
+    height:40px;
+    width: 250px;
+    
+
+}
+
